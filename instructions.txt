@@ -1,0 +1,15 @@
+zCharter.py
+_______________________________________________________________________________________________________
+Charting tool for the most popular cryptocurrency exchanges.
+Supports Bitfinex, Bittrex, Poloniex, and Kraken.
+Other exchanges can be added by supplying Python API wrappers.
+Includes several indicators like Volume, SMA, EMA, MACD, RSI, Bollinger Bands, Channel Breakout.
+Simulate trading, including short selling. Infinite balance.
+"Time travel" feature so you can test your trading skills.
+_______________________________________________________________________________________________________
+USAGE: 	Launch zCharter.py
+		Topleft textfields are respectively for: exchange, pair, and time interval.
+		Press the yellow button to download the desired candle data.
+		Green button is for buying (or opening a long), red button for selling (or shorting).
+
+#######################################################################################################
